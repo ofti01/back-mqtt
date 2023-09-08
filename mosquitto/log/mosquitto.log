@@ -1,0 +1,71 @@
+1694182949: mosquitto version 2.0.17 starting
+1694182949: Config loaded from /mosquitto/config/mosquitto.conf.
+1694182949: Warning: File /mosquitto/config/passFile has world readable permissions. Future versions will refuse to load this file.
+1694182949: Opening ipv4 listen socket on port 1883.
+1694182949: Opening ipv6 listen socket on port 1883.
+1694182949: mosquitto version 2.0.17 running
+1694183545: mosquitto version 2.0.17 terminating
+1694183545: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1694183598: mosquitto version 2.0.17 starting
+1694183598: Config loaded from /mosquitto/config/mosquitto.conf.
+1694183598: Warning: File /mosquitto/config/passFile has world readable permissions. Future versions will refuse to load this file.
+1694183598: Opening ipv4 listen socket on port 1883.
+1694183598: Opening ipv6 listen socket on port 1883.
+1694183598: mosquitto version 2.0.17 running
+1694184600: mosquitto version 2.0.17 terminating
+1694184600: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1694184783: mosquitto version 2.0.17 starting
+1694184783: Config loaded from /mosquitto/config/mosquitto.conf.
+1694184783: Warning: File /mosquitto/config/passFile has world readable permissions. Future versions will refuse to load this file.
+1694184783: Opening ipv4 listen socket on port 1883.
+1694184783: Opening ipv6 listen socket on port 1883.
+1694184783: mosquitto version 2.0.17 running
+1694185993: New connection from 172.30.0.1:46352 on port 1883.
+1694185993: Client <unknown> disconnected due to protocol error.
+1694185998: New connection from 172.30.0.1:45994 on port 1883.
+1694185998: Client <unknown> disconnected due to protocol error.
+1694186003: New connection from 172.30.0.1:45996 on port 1883.
+1694186003: Client <unknown> disconnected due to protocol error.
+1694186007: New connection from 172.30.0.1:46010 on port 1883.
+1694186007: Client <unknown> disconnected due to protocol error.
+1694186008: New connection from 172.30.0.1:48166 on port 1883.
+1694186008: Client <unknown> disconnected due to protocol error.
+1694186014: New connection from 172.30.0.1:48182 on port 1883.
+1694186014: Client <unknown> disconnected due to protocol error.
+1694186017: New connection from 172.30.0.1:48194 on port 1883.
+1694186017: Client <unknown> disconnected due to protocol error.
+1694186018: New connection from 172.30.0.1:39282 on port 1883.
+1694186018: Client <unknown> disconnected due to protocol error.
+1694186021: New connection from 172.30.0.1:39288 on port 1883.
+1694186021: Client <unknown> disconnected due to protocol error.
+1694186022: New connection from 172.30.0.1:39298 on port 1883.
+1694186022: Client <unknown> disconnected due to protocol error.
+1694186025: New connection from 172.30.0.1:39306 on port 1883.
+1694186025: Client <unknown> disconnected due to protocol error.
+1694186026: New connection from 172.30.0.1:39316 on port 1883.
+1694186026: Client <unknown> disconnected due to protocol error.
+1694186029: New connection from 172.30.0.1:45344 on port 1883.
+1694186029: Client <unknown> disconnected due to protocol error.
+1694186030: New connection from 172.30.0.1:45360 on port 1883.
+1694186030: Client <unknown> disconnected due to protocol error.
+1694186033: New connection from 172.30.0.1:45370 on port 1883.
+1694186033: Client <unknown> disconnected due to protocol error.
+1694186037: New connection from 172.30.0.1:45372 on port 1883.
+1694186037: Client <unknown> disconnected due to protocol error.
+1694186041: New connection from 172.30.0.1:43364 on port 1883.
+1694186041: Client <unknown> disconnected due to protocol error.
+1694186045: New connection from 172.30.0.1:43380 on port 1883.
+1694186045: Client <unknown> disconnected due to protocol error.
+1694186049: New connection from 172.30.0.1:38106 on port 1883.
+1694186049: Client <unknown> disconnected due to protocol error.
+1694186054: New connection from 172.30.0.1:38112 on port 1883.
+1694186054: Client <unknown> disconnected due to protocol error.
+1694187477: mosquitto version 2.0.17 starting
+1694187477: Config loaded from /mosquitto/config/mosquitto.conf.
+1694187477: Warning: File /mosquitto/config/passFile has world readable permissions. Future versions will refuse to load this file.
+1694187477: Opening ipv4 listen socket on port 1883.
+1694187477: Opening ipv6 listen socket on port 1883.
+1694187477: mosquitto version 2.0.17 running
+1694187548: New connection from 172.30.0.1:54364 on port 1883.
+1694187548: New client connected from 172.30.0.1:54364 as mqttx_fd70b896 (p5, c1, k60, u'admin').
+1694189277: Saving in-memory database to /mosquitto/data//mosquitto.db.
