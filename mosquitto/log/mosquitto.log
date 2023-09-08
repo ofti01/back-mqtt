@@ -68,3 +68,4 @@
 1694187477: mosquitto version 2.0.17 running
 1694187548: New connection from 172.30.0.1:54364 on port 1883.
 1694187548: New client connected from 172.30.0.1:54364 as mqttx_fd70b896 (p5, c1, k60, u'admin').
+1694189277: Saving in-memory database to /mosquitto/data//mosquitto.db.
